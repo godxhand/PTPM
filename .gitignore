@@ -1,8 +1,0 @@
-
-obj/BaiTap.csproj.nuget.g.targets
-*.cs
-*.json
-*.csproj
-*.props
-*.cache
-*.editorconfig
